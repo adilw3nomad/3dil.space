@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://adilw3nomad.github.io/sitemap.xml
