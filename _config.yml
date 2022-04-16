@@ -1,13 +1,12 @@
 site: 3dil.space
 title: orange peels and tyre squeels 
-greetings: misplaced misfits, welcome 
-description: >-
-  musing of a misfit in the weird world of the future
+greetings: i'll name this blog later 
+description: honest thoughts and musings of a misfit in the weird world of the future.
+  
 lang: en-US
-timezone:  Europe/Rome
 repo: https://github.com/adilw3nomad/3dil.space # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
-discus-identifier: powex # replace with your disqus shortname
+# discus-identifier: powex # replace with your disqus shortname
 
 author:
   name: adilw3nomad
@@ -59,13 +58,12 @@ plugins:
   - jekyll-sitemap
   - jekyll-relative-links
 
-collections:
-  pages:
-    output: true
-    permalink: /:name
-  posts:
-    output: true
-    permalink: /:year/:month/:day/:slug
+pages:
+  output: true
+  permalink: /:name
+posts:
+  output: true
+  permalink: /:year/:month/:slug
   
 defaults:
   -

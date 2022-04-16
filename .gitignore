@@ -8,3 +8,4 @@ _site
 .git
 .vscode
 .obsidian
+_site/about
