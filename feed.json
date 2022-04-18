@@ -3,7 +3,7 @@
     "title": "orange peels and tyre squeels",
     "home_page_url": "https://adilw3nomad.github.io/",
     "feed_url": "https://adilw3nomad.github.io/feed.json",
-    "description": "musing of a misfit in the weird world of the future",
+    "description": "honest thoughts and musings of a misfit in the weird world of the future.",
     "icon": "https://adilw3nomad.github.io/apple-touch-icon.png",
     "favicon": "https://adilw3nomad.github.io/favicon.ico",
     "expired": false,
@@ -15,30 +15,6 @@
     },
     
 "items": [
-    
-        {
-            "id": "https://adilw3nomad.github.io/2022/04/15/my-new-post",
-            "title": "My New Post",
-            "summary": null,
-            "content_text": "sdsadsa",
-            "content_html": "<p>sdsadsa</p>",
-            "url": "https://adilw3nomad.github.io/2022/04/15/my-new-post",
-            
-            
-            
-            
-            
-            "date_published": "2022-04-15T09:54:00+02:00",
-            "date_modified": "2022-04-15T09:54:00+02:00",
-            
-                "author":  {
-                "name": "adilw3nomad",
-                "url": null,
-                "avatar": null
-                }
-                
-            
-        }
     
     ]
 }
