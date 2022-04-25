@@ -31,7 +31,7 @@ All of this happened while we all sat in different rooms, in different houses, a
 
 It was the first time in my career that I was interviewed by two distinctly different developers, who were actively trying to get me to show them my strengths; a stark contrast to my other experiences. Most tech interviews I had up until that point seemed to be a search for my inadequacies; reasons to say **no** or reasons to offer you a lower salary then you expected or were worth.
 
-These two chaps however, with a combined experience quadrupling my own, brought my best qualities; my curiousity and enthusiasm, my lack of ego to my ideas or beliefs, a detachement to my code. Most of all, they say my deep desire to grow, to work alongside passionate, empathetic and talented individuals.
+These two chaps however, with a combined experience quadrupling my own, brought out my best qualities; my curiousity and enthusiasm, my lack of ego to my ideas or beliefs, a detachement to my code. Most of all, they saw my deep desire to grow, to work alongside passionate, empathetic and talented individuals.
 
 It was by far the best interview I had ever had, so much so that I told Darren (foolishly, don't do this kids) that I wanted this job so badly, I would be willing to take a salary that was lower then the advertised range.
 
