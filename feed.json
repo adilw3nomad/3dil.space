@@ -16,5 +16,29 @@
     
 "items": [
     
+        {
+            "id": "https://adilw3nomad.github.io/2022/04/25/publish-drafts-easiest-decision-of-my-career-md/",
+            "title": "publish _drafts/easiest_decision_of_my_career.md",
+            "summary": null,
+            "content_text": "",
+            "content_html": "",
+            "url": "https://adilw3nomad.github.io/2022/04/25/publish-drafts-easiest-decision-of-my-career-md/",
+            
+            
+            
+            
+            
+            "date_published": "2022-04-25T08:35:00-05:00",
+            "date_modified": "2022-04-25T08:35:00-05:00",
+            
+                "author":  {
+                "name": "adilw3nomad",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        }
+    
     ]
 }
