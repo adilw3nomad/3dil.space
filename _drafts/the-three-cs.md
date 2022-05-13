@@ -1,22 +1,29 @@
 ---
 layout: post
-title: The Three Cs of Culture, part 1
+title: communication
 date: 2022-04-29 10:33 +0300
+tags: culture
 ---
+*disclaimer: I have strong opinions that I hold rather loosely*
+
 I'll be frank; I don't like the word 'Culture'. Or at least its usage in the context of the tech industry. Its ambiguity is routinely abused by companies seeking to entice naive employees into their grasp. Sometimes they even have the gall to list *culture* under their 'Benefits and Compensation' section! As if a good and healthy working environment is an added benefit, rather than a given in any modern place of work.
 
-What is *work culture* exactly? Some would have you believe that it consists of free coffee, a table tennis table, a beer fridge, and a biweekly day for you to 'work on personal projects'. I'm not going to say these are bad things, but they do not define a *work culture*. They are tangentially related to my personal definition of culture, compromised of the three **Cs**
+What is *work culture* exactly? Some would have you believe that it consists of free coffee, a table tennis table, a beer fridge, and a biweekly day for you to 'work on personal projects'. I'm not going to say these are bad things, but they do not define a *work culture*. They are tangentially related to my personal definition of work culture, compromised of the three **Cs**
 
 1. Communication
 2. Collaboration
 3. Camaraderie
+
+The stuff I mentioned above, the stereotypical things you might find in an office, or a job description, are *meant* to facilitate one of these three Cs in one form or another. However, their presence does not imply a good work culture, nor does their absence imply a bad one; they are simply tools whose effectiveness depends on how they are used.
 
 This post will focus on **Communication**, and I will tackle the next two Cs in separate posts. I must stress that these are only my own thoughts on the subject, and I welcome any challenges or alternate opinions.
 
 --- 
 ### Communication
 
-The first of the Cs, and arguably the foundation upon which the other two reside, is communication; how do people communicate with each other? In every group of people, a secondary form of *language* develops from the conversations people have every day. The longer a group of people interacts with each other, the more entrenched this *language* becomes. It influences every debate, meeting, and crucially, **decision** that takes place within the group.
+The first of the Cs, and arguably the foundation upon which the other two reside, is communication; how do colleagues communicate with each other?
+
+In every group of people, a secondary form of *language* develops from the conversations and interactions that occur during the process of "work". The longer a group of people interacts with each other, the more entrenched this *language* becomes. It influences every debate, meeting, and crucially, **decision** that takes place within the group.  
 
 [//]: # (Expand on languages; give examples)
 [//]: # (Talk about affect on processes, e.g onboarding, etc)
