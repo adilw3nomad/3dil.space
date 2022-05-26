@@ -6,7 +6,7 @@ description: honest thoughts and musings of a misfit in the weird world of the f
 lang: en-US
 repo: https://github.com/adilw3nomad/3dil.space # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
-# discus-identifier: powex # replace with your disqus shortname
+discus-identifier: adilw3nomad # replace with your disqus shortname
 
 author:
   name: adilw3nomad
@@ -88,4 +88,5 @@ relative_links:
   enabled:     true
   collections: false
 
-
+jekyll_compose:
+    auto_open: true
