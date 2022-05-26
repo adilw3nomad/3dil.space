@@ -44,8 +44,32 @@ While the *MVP* is the master of a startup's destiny, **Culture** controls it's 
 
 Therefore, while it may be acceptable to make some technical compromises in order to deliver an *MVP*, some minimal effort must be put towards creating a *minimum viable culture*. I would call it an *MVC*, but something tells me that acronym won't catch on. Forget about the name for the time being, naming stuff is hard. Let's just focus on what's the minimum we can do in order to ensure the *language* of our communication embodies the qualities of Inclusivity, Honesty, and Freedom.
 
-In order to deliver this *MVP language* of communication, which will be the cornerstone of all communication within the company, and in turn the foundation of the company's culture, we must take a slight detour to understand how our brains work. 
+In order to deliver this *MVP language* of communication, which will be the cornerstone of all communication within the company, and in turn the foundation of the company's culture, we must take a slight detour to understand how our brains work.
 
+-----
 ### Compassion
 
-Compassion is biologically coded into us. Evolutionary system; your brain is biologically designed to respond to signals of compassion; from the day we are born, we need to be careful, and we tend to trust the people who show us compassion
+There is a lot of interesting research about how humans evolved to be compassionate; [one such paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2864937/) posits a very interesting idea; 
+
+> ...is that individuals will favor enduring relationships with **more agreeable, compassionate individuals** because this emotional trait predicts **increased cooperative**, trustworthy behavior and **mutually beneficial exchanges** among individuals not bound by kin relations. 
+
+While I strongly recommend reading the entire paper, as the subject is quite nuanced, I strongly believe that promoting compassionate conversations has the affect of increasing trust. Trust is essential in any working environment, but never as important as when you are trying to foster **Inclusivity, Honesty, Freedom**.
+
+Picture a bunch of kids in a classroom; rambunctiously waiting for the shrill ringing of the morning bell that signifies the start of their lesson. Their teacher walks in, and behind the teacher is a slightly sheepish, meek young child who has just joined the school. The kid has no friends; he is an outsider, known to no one, and faces the difficult task of integrating themselves into the increasingly complicated social minefield that is high school. 
+
+One of the kids offers to show the newcomer around; and from that moment, the newcomer starts to develop a sense of trust with their 'guide'. The newcomer starts to feel **included** when the invited eat lunch with the guides group of friends. With this sense of inclusion, the newcomer shyly joins a conversation about which Christopher Nolan flick is the best, giving an **honest** opinion that *Inception** is the directors greatest work. 
+
+*_the newcomer is young so doesn't know that Memento is objectively the best Nolan movie ever_
+
+When the guide vehemently disagrees with him, stating that _Interstellar_ is way better, the newcomer feels the **Freedom** to disagree, and launches into a convoluted argument consisting of the lack of recognition of Leonardo DiCaprio, the ambigious ending, and the replayability of _Inception_ vs _Interstellar_**.
+
+***again, Memento is objectively better in all regards. bloody gen z smh grumble grumble.*
+
+Now cinema aside, we can see that in this totally-made-up story, the compassion of the guide led to the newcomer feeling **Included** in a discussion, where they could **freely** express their **honest** (if incorrect) opinions. 
+
+****
+
+You can draw your own parallels between the above anecdote and similar experiences in the workplace. Build trust through compassion in your communication, and the fruits of your efforts will be an environment where everyone feels **included** and **free** to express their **honest** opinions. There will always be conflict (no doubt those two kids argued about that subject for days), but as long as they communicate with compassion, this is likely to result in *healthy conflict*, which is essential to any relationship.
+
+Remember, to be alive is to be suffering. I know that sounds hyperbolic, but it's true; we are all constantly suffering from something or the other, at varying degrees of severity. Compassion is recognising this, just as the guide recognised the newcomer was suffering from shyness.
+
